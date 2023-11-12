@@ -9,7 +9,7 @@ require (
 	github.com/stretchr/testify v1.8.2
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
-	k8s.io/client-go v0.0.0
+	k8s.io/client-go v0.17.16
 	k8s.io/code-generator v0.0.0
 )
 
