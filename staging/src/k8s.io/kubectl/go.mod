@@ -10,7 +10,7 @@ require (
 	github.com/daviddengcn/go-colortext v1.0.0
 	github.com/docker/distribution v2.8.2+incompatible
 	github.com/evanphx/json-patch v4.12.0+incompatible
-	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d
+	github.com/exponent-io/jsonpath v0.0.0-20210407135951-1de76d718b3f
 	github.com/fatih/camelcase v1.0.0
 	github.com/fvbommel/sortorder v1.1.0
 	github.com/go-openapi/jsonreference v0.20.1
@@ -27,7 +27,7 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0
 	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	golang.org/x/sys v0.13.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.0.0
@@ -81,7 +81,7 @@ require (
 	github.com/xlab/treeprint v1.2.0 // indirect
 	go.starlark.net v0.0.0-20200306205701-8dd3e2ee1dd5 // indirect
 	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/oauth2 v0.6.0 // indirect
+	golang.org/x/oauth2 v0.7.0 // indirect
 	golang.org/x/term v0.13.0 // indirect
 	golang.org/x/text v0.13.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
