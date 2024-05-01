@@ -3,7 +3,7 @@ module k8s.io/kubernetes/hack/tools
 go 1.19
 
 require (
-	github.com/aojea/sloppy-netparser v0.0.0-20210819225411-1b3bd8b3b975
+	github.com/aojea/sloppy-netparser v0.0.0-20210819230639-a7bbdb117ea5
 	github.com/cespare/prettybench v0.0.0-20150116022406-03b8cfe5406c
 	github.com/client9/misspell v0.3.4
 	github.com/golang/mock v1.6.0
